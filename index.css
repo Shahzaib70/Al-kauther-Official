@@ -1,0 +1,130 @@
+
+#navv #navbarSupportedContent ul {
+	margin-left: 550px;
+	color: white !important;
+	opacity: 1 !important;
+}
+
+#navbarSupportedContent ul li {
+	margin: 0 10px;
+}
+
+#navv .navbar-brand {
+	margin-left: 200px;
+	color: white !important;
+	opacity: 1 !important;
+}
+
+.jumbotron {
+	color: white;
+	background: url("background3.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#aboutDescription {
+	text-align: left;
+	margin-top: 40px;
+}
+
+#aboutQuote {
+	color: #808080;
+}
+
+.servicesText {
+	text-align: center;
+	color: #808080;
+}
+
+.labReportsText {
+	text-align: center;
+	color: #808080;
+}
+
+.borders {
+	height: 0px;
+	width: 80px;
+	margin: 0 160px;
+	border-bottom: 5px solid steelblue;
+}
+
+ #product1 {
+	width: 500px;
+	text-align: center;
+}
+
+#servicesSection {
+	margin-top: 47px !important;
+	margin-bottom: 47px !important;
+}
+
+#aboutDescription {
+	color: #808080;
+	font-weight: 1.175em;
+	text-align: left;
+}
+
+.jumbotron h1 {
+	font-weight: bold;
+}
+
+h3 {
+	color: steelblue;
+}
+
+h5 {
+	color: #808080;
+}
+
+p {
+	color: #808080;
+}
+
+.lead {
+	color: white;
+}
+
+li {
+	color: #808080;
+}
+
+.product-highlights {
+	font-size: 1.2em;
+	font-weight: bold;
+	opacity: 0.77;
+}
+
+#navv {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	opacity: 0.01;
+	height: 80px;
+	margin-bottom: 0px;
+	transition: height .5s line-height .5s;
+}
+
+.scrolled-nav {
+	height: 50px !important;
+	line-height: 50% !important;
+	background-color: black !important;
+	opacity: 0.85 !important;
+}
+
+
+.jumbotron br {
+	margin-left: 250px;
+}
+
+.jumbotron p {
+	margin-left: 250px;
+	font-size: 1.5em;
+}
+
+.jumbotron p a {
+	margin-top: 40px;
+}
+
+body {
+	position: relative;
+}
